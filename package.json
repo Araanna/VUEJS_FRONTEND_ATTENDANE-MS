@@ -10,16 +10,20 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
-    "vue": "^3.5.17"
+    "html5-qrcode": "^2.3.8",
+    "vue": "^3.5.17",
+    "vue-icons": "^2.0.0",
+    "vue-router": "^4.5.1",
+    "vue3-toastify": "^0.2.8"
   },
-   "devDependencies": {
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0-next.x",
     "@vitejs/plugin-vue": "^5.0.4",
     "@vue/tsconfig": "^0.5.1",
-    "autoprefixer": "^10.4.19",         
-    "daisyui": "^5.0.0",                 
-    "postcss": "^8.4.38",               
-    "tailwindcss": "^4.0.0-next.x",     
-    "@tailwindcss/postcss": "^4.0.0-next.x", 
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^5.0.0",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^4.0.0-next.x",
     "typescript": "~5.4.0",
     "vite": "^5.2.8",
     "vue-tsc": "^2.0.11"
