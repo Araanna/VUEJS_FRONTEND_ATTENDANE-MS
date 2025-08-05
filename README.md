@@ -218,3 +218,4 @@ npm run build
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 # VUEJS_FRONTEND_ATTENDANE-MS
+# VUEJS_FRONTEND_ATTENDANE-MS
